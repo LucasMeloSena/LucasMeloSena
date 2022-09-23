@@ -1,7 +1,7 @@
 ## Olá pessoal! Eu sou o Lucas Sena 😉
 
 - 🔭 Hoje trabalho com Suporte Técnico/Infra
-- 🗒️ Aluno no Colégio e Faculdade Cotemig
+- 🗒️ Estudante de Técnico em Informática
 - 🌱 Estudando: C#, HTML, CSS, JavaScript, MySQL e Redes de computadores
 - 😄 Pronouns: ele/dele
 
