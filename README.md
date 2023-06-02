@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Suporte Técnico/Infra
 - 🗒️ Estudante de Técnico em Informática para Internet
-- 🌱 Estudando: JavaScript, ReactJS, Node.js, Swift, Kotlin, Php
+- 🌱 Estudando: JavaScript, ReactJS, Node.js, Swift, Kotlin, Php, TypeScript
 - 😄 Pronouns: ele/dele
 
 <div align="center">
@@ -20,9 +20,9 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Lucas-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-  <img align="center" alt="Lucas-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  
-  <img align="center" alt="Lucas-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">     
+  <img align="center" alt="Lucas-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Lucas-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">  
+  <img align="center" alt="Lucas-MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"> 
 </div>
 
 ##
