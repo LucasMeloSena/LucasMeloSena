@@ -1,8 +1,8 @@
 ## Olá pessoal! Eu sou o Lucas Sena 😉
 
-- 🔭 Hoje trabalho com Suporte Técnico/Infra
+- 🔭 Hoje trabalho com Desenvolvimento Web
 - 🗒️ Estudante de Técnico em Informática para Internet
-- 🌱 Estudando: JavaScript, ReactJS, Node.js, Swift, Kotlin, Php, TypeScript
+- 🌱 Estudando: TypeScript, ReactJS, Node.js, Swift, Kotlin, Php, C#, Vue.js
 - 😄 Pronouns: ele/dele
 
 <div align="center">
