@@ -1,6 +1,6 @@
 ## Olá pessoal! Eu sou o Lucas Sena 😉
 
-- 🔭 Hoje trabalho com Desenvolvimento Web
+- 🔭 Hoje trabalho com Desenvolvimento Web FullStack
 - 🗒️ Estudante de Técnico em Informática para Internet
 - 🌱 Estudando: TypeScript, ReactJS, Node.js, Swift, Kotlin, Php, C#, Vue.js
 - 😄 Pronouns: ele/dele
