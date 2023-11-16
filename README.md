@@ -1,14 +1,14 @@
-## Olá pessoal! Eu sou o Lucas Sena 😉
+## Hello everyone! I'm Lucas Sena 😉
 
-- 🔭 Hoje trabalho com Desenvolvimento Web FullStack
-- 🗒️ Estudante de Técnico em Informática para Internet
-- 🌱 Estudando: TypeScript, ReactJS, Node.js, Swift, Kotlin, Php, C#, Vue.js
-- 😄 Pronouns: ele/dele
+- 🔭 Today I work with Full Stack Web Development
+- 🗒️ Graduated in IT Technician for Internet
+- 🌱 Going deeper into: TypeScript, ReactJS, Vue.js, Node.js, Swift and React Native
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/LucasMeloSena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMeloSena&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMeloSena&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMeloSena&show_icons=true&count_private=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMeloSena&layout=compact&theme=dark"/>
 </div>
 
 
