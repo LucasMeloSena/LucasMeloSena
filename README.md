@@ -2,8 +2,6 @@
 
 - 🔭 Today I work with Full Stack Web Development
 - 🗒️ Graduated in IT Technician for Internet
-- 🌱 Going deeper into: TypeScript, ReactJS, Vue.js, Node.js, Swift and React Native
-- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/LucasMeloSena">
