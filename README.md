@@ -1,7 +1,7 @@
 ## Hello everyone! I'm Lucas Sena 😉
 
-- 🔭 Today I work with Full Stack Web Development
-- 🗒️ Graduated in IT Technician for Internet
+- 🔭 Today I work with Full Stack Developer
+- 🗒️ Graduating in Systems Analysis and Development
 
 <div align="center">
   <a href="https://github.com/LucasMeloSena">
