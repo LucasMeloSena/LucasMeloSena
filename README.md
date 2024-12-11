@@ -1,6 +1,6 @@
 ## Hello everyone! I'm Lucas Sena 😉
 
-- 🔭 Today I work as Full Stack Developer
+- 🔭 Today I work as Software Engineer
 - 🗒️ Graduating in Systems Analysis and Development
 
 <div align="center">
