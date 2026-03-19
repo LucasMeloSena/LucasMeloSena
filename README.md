@@ -1,7 +1,7 @@
 ## Hello everyone! I'm Lucas Sena 😉
 
 - 🔭 Today I work as Software Engineer
-- 🗒️ Graduating in Systems Analysis and Development
+- 🗒️ Graduating in Computer Engineering
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
