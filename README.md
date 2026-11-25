@@ -1,7 +1,7 @@
 ## Hello everyone! I'm Lucas Sena 😉
 
 - 🔭 Today I work as Software Engineer
-- 🗒️ Graduating in Computer Engineering
+- 🗒️ Graduating in Computer Engineering at CEFET-MG
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
@@ -25,7 +25,7 @@
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg">
   <br>
   <hr>
-  <img align="center" alt="Lucas-Aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Lucas-Aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain.svg">
   <img align="center" alt="Lucas-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
   <img align="center" alt="Lucas-Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg">
 </div>
